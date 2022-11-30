@@ -4,6 +4,6 @@
 
 'pitch_counts.py' and 'success_rates.py' requires the pandas package.
 
-'breakdowns.py', 'spin_rates.py', and 'sequence_data.py' create the final visualizations. In order to run these files pandas and numpy packages are needed. 'spin_rates.py' also requires the Matplotlib library.
+'breakdowns.py', 'spin_rates.py', and 'sequences.py' create the final visualizations. In order to run these files pandas and Matplotlib packages are needed. 'spin_rates.py' also requires the numpy library.
 
 'results.pdf' is the final presentable results with visualizations.
